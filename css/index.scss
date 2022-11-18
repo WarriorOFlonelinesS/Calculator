@@ -1,0 +1,140 @@
+ body {
+       background: #EEE7E6;
+  }
+  .calc{
+    margin: 50px auto;
+    width: 355.05px;
+    height: 413.93px;
+    background: #EEE7E6;
+    box-shadow: 3px 5px 13px rgba(0, 0, 0, 0.25), -3px -3px 16px rgb(255, 255, 255);
+    border-radius: 40px;
+    color: rgb(255, 255, 255); 
+    padding: 18px;
+    user-select: none;
+  }
+  .output{
+    width: 350.08px;
+    height: 62px;
+    background: #EEE7E6;
+    box-shadow: inset 0px 4px 12px rgba(0, 0, 0, 0.25);
+    .p{
+      font-family: 'Roboto', sans-serif;
+      width: 300px;
+      height: 60px;
+      font-size: 50px;
+      color: #725d5d;
+    }
+    .p_output{
+      margin-top:0px;
+      margin-left: 20px;
+      margin-top: 2px;
+      display: grid;
+      justify-items: end;
+      position: absolute;
+    }
+  }
+
+  .output_calc{
+    margin: 20px auto;
+  }
+  .buttons{
+    width: 365px;
+    height: 291.5px;
+    margin: 10px 0 auto;
+  }
+
+  
+  .btn{
+ 
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    width:78px;
+    height: 48px;
+    background-color: #D2C9C7;
+    box-shadow:2px 3px 4px 0px #BBB7B6,
+    -1px -1px 5px rgb(255, 255, 255);
+    // 1px -2px 0px 0px #ffffff; 
+     border: #D2C9C7;
+     border-radius: 60%;
+     cursor: pointer;
+ }
+ .buttons_btn{
+  margin:13px 1px 0 12px
+ }
+  .btn:active{
+    box-shadow: inset 2px 3px 7px rgba(0, 0, 0, 0.4);
+  }
+  .btn_rotate{
+    height: 48px;
+    width: 171px;
+    text-align: center;
+    box-shadow:1.5px 2px 2px 0px #BBB7B6,
+    -1px -1px 5px rgb(255, 255, 255);
+    user-select: none;
+    position: relative;
+    margin-left: 12px;
+  }
+  .btn_sign{
+    width: 50px;
+    height: 30.7px ;
+    font-size: 20.5px;
+  }
+//   h1 {
+//     position: relative;
+//     text-align: center;
+//     color: #353535;
+//     font-size: 50px;
+//     font-family: "Cormorant Garamond", serif;
+//   }
+  
+//   p {
+//     font-family: 'Lato', sans-serif;
+//     font-weight: 300;
+//     text-align: center;
+//     font-size: 18px;
+//     color: #676767;
+//   }
+
+//   button {
+//     margin: 20px;
+//   }
+//   .custom-btn {
+//     width: 130px;
+//     height: 40px;
+//     color: #fff;
+//     border-radius: 5px;
+//     padding: 10px 25px;
+//     font-family: 'Lato', sans-serif;
+//     font-weight: 500;
+//     background: transparent;
+//     cursor: pointer;
+//     transition: all 0.9s ease;
+//     position: relative;
+//     display: inline-block;
+//      box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
+//      7px 7px 20px 0px rgba(0,0,0,.1),
+//      4px 4px 5px 0px rgba(0,0,0,.1);
+//     outline: none;
+//   }
+  
+
+  
+//   /* 2 */
+//   .btn-2 {
+//     background: rgb(96,9,240);
+//     background: linear-gradient(0deg, rgba(96,9,240,1) 0%, rgba(129,5,240,1) 100%);
+//     border: none;
+    
+//   }
+//   .btn-2:before {
+//     height: 0%;
+//     width: 2px;
+//   }
+//   .btn-2:active {
+//     box-shadow:  4px 4px 6px 0 rgba(255,255,255,.5),
+//                 -4px -4px 6px 0 rgba(116, 125, 136, .5), 
+//       inset -4px -4px 6px 0 rgba(255,255,255,.2),
+//       inset 4px 4px 6px 0 rgba(0, 0, 0, .4);
+//   }
+  
