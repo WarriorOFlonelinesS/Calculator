@@ -1,3 +1,5 @@
 # The-calculator
-Purpose of this project:
-* item
+Purposes of this project:
+* Intuitive functionality
+* Neomorph design
+* Supporting 5 types of arithmetic operation
