@@ -1,11 +1,11 @@
-# The-calculator
-
-Purposes of this project:
+# Purposes of this project:
 
 * Intuitive functionality
 * Neomorph design
 * Supporting 5 types of arithmetic operations
 
-![image](https://github.com/WarriorOFlonelinesS/The-calculator/blob/main/Calculator-Google-Chrome-2022-12-06-10-56-33.gif)
+# Subtraction
+
+![image](https://github.com/WarriorOFlonelinesS/The-calculator/blob/main/Calculator_-_Google_Chrome_2022-12-06_11-47-31_AdobeExpress.gif)
 
 - [x] Ready project: https://to-calc.netlify.app/
