@@ -6,6 +6,21 @@
 
 # Subtraction
 
-![image](https://github.com/WarriorOFlonelinesS/The-calculator/blob/main/Calculator_-_Google_Chrome_2022-12-06_11-47-31_AdobeExpress.gif)
+For subtraction choice the first number, press on the button with sign `-` and choice the second number.
 
-- [x] Ready project: https://to-calc.netlify.app/
+#  Sum 
+For summation choice the first number, press on the button with sign `+` and choice the second number.
+
+# Multiplication 
+For multiplication choice the first number, press on the button with sign `*` and choice the second number.
+
+# Division 
+For division choice the first number, press on the button with sign `÷` and choice the second number.
+
+# Precent
+For calculating the percentage of a number choice the fitst number and press on the button with sign `%`.
+
+# Cloning the project
+`git clone https://github.com/WarriorOFlonelinesS/The-calculator.git`
+
+- [x] Ready project: https://to-calc.netlify.app/ 
