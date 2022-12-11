@@ -1,9 +1,15 @@
 # Сontents
-1. [Purpose](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#purposes-of-this-project)
-2. Operations
-3. Cloning
+1. [Purposes](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#purposes)
+2. [Operations](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#operations)
+    * [Substraction](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#subtraction)
+    * [Sum](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#sum)
+    * [Multiplication](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#multiplication)
+    * [Division](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#division) 
+    * [Precent](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#precent)
+3. [Cloning](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#cloning)
 4. Pushing 
-# Purposes:
+
+# Purposes
 
 * Intuitive functionality
 * Neomorphic design
@@ -12,21 +18,22 @@
 
 ### Subtraction
 
-For subtraction choice the first number, press on the button with sign `-` and choice the second number.
+For subtraction choice the first number, press on the button with sign `-` and choice the second number, after press on the button with `=`.
 
 ###  Sum 
-For summation choice the first number, press on the button with sign `+` and choice the second number.
+For summation choice the first number, press on the button with sign `+` and choice the second number, after press on the button with `=`.
 
 ### Multiplication 
-For multiplication choice the first number, press on the button with sign `*` and choice the second number.
+For multiplication choice the first number, press on the button with sign `*` and choice the second number, after press on the button with `=`.
 
 ### Division 
-For division choice the first number, press on the button with sign `÷` and choice the second number.
+For division choice the first number, press on the button with sign `÷` and choice the second number, after press on the button with `=`.
 
 ### Precent
-For calculating the percentage of a number choice the fitst number and press on the button with sign `%`.
+For calculating the percentage of a number choice the fitst number and press on the button with sign `%`, after press on the button with `=`.
 
-# Cloning the project
+
+# Cloning
 `git clone https://github.com/WarriorOFlonelinesS/The-calculator.git`
 
 - [x] Ready project: https://to-calc.netlify.app/ 
