@@ -1,23 +1,29 @@
-# Purposes of this project:
+# Сontents
+1. [Purpose](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#purposes-of-this-project)
+2. Operations
+3. Cloning
+4. Pushing 
+# Purposes:
 
 * Intuitive functionality
-* Neomorph design
+* Neomorphic design
 * Supporting 5 types of arithmetic operations
+# Operations
 
-# Subtraction
+### Subtraction
 
 For subtraction choice the first number, press on the button with sign `-` and choice the second number.
 
-#  Sum 
+###  Sum 
 For summation choice the first number, press on the button with sign `+` and choice the second number.
 
-# Multiplication 
+### Multiplication 
 For multiplication choice the first number, press on the button with sign `*` and choice the second number.
 
-# Division 
+### Division 
 For division choice the first number, press on the button with sign `÷` and choice the second number.
 
-# Precent
+### Precent
 For calculating the percentage of a number choice the fitst number and press on the button with sign `%`.
 
 # Cloning the project
