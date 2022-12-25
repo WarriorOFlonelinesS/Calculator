@@ -1,14 +1,17 @@
-let a = '', //first number
-    b = '', // second number
-    sign = ''; // sign of operation 
+// the first, second, math sign and finishing of a operation 
+let a = '', 
+    b = '', 
+    sign = ''; 
     finish = false; 
 
+//  containers with digits and signs for parsing
 const digit = ["0", "1", "2","3", "4", "5", "6", "7", "8", '9','.']; 
 const action = ['-', '×', '÷','+','%'];
 
 // dispalay
 const out = document.querySelector('p');
 
+// function of clearing of the display and set a default font 
 function clearAll() {
   a = '';
   b = '';
@@ -18,28 +21,28 @@ function clearAll() {
   out.style.fontSize = "50px"
 }
 document.querySelector('.ac').onclick = clearAll;
-
 document.querySelector('.buttons').onclick = (event) => {
-  // click no button  
+  
+  // button isn't pressing  
   if(!event.target.classList.contains('btn')) return;
-  // click button clearAll 
+  
+  // button ClearAll is pressing
   if(event.target.classList.contains('ac')) return;
-
   out.textContent = "";
-  // 
+  
+  // parssing digits and signs from the HTML file
   const key = event.target.textContent;
   if(digit.includes(key)){
     if (b =="" && sign === ''){
     a+=key;
+  
+   // if amount of symbols in the display more 12, the inputing is impossible 
     if (a.length<12){
-
-    
     out.textContent = a
-    
     }else{
       out.textContent =  a.substring(0,11)
     }
-
+  // if 
   }else if (a!=='' && b!=='' && finish){
       b = key;
       finish = false;
@@ -54,7 +57,6 @@ document.querySelector('.buttons').onclick = (event) => {
       b=b.substring(0,11)
       out.textContent = b
     }
-    
   }
  
   return;
