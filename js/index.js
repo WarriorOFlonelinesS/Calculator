@@ -42,24 +42,22 @@ document.querySelector('.buttons').onclick = (event) => {
     }else{
       out.textContent =  a.substring(0,11)
     }
-  // if 
+        
   }else if (a!=='' && b!=='' && finish){
       b = key;
       finish = false;
       out.textContent = 0;
   }
-  else {
+   else{
     b+=key;
     if (b.length<12){
       out.textContent = Number(b);
-     
     }else{
       b=b.substring(0,11)
       out.textContent = b
     }
   }
- 
-  return;
+   return;
 }
   if (action.includes(key)){
     sign = key;
@@ -67,7 +65,8 @@ document.querySelector('.buttons').onclick = (event) => {
    
     return;
   }
-  // 
+  
+// if the button with sign "=" was pressed
 if(key === '='){
   if (b === '' ) b = a;
   switch(sign){
@@ -96,25 +95,26 @@ if(key === '='){
       break
       }
       finish = true;
+    // if length of the output is more 12, font size 24px
       if (a.length<12){
         out.style.fontSize = "50px"}
-     
       else{
         out.style.fontSize = "24px"
-        
       }
-      
       out.textContent = a;
         
 }
+    
+// button Backspase is pressed
 if (key === '←'){
+  // for the first number
   if (b === ''){
   a = a.substring(0, a.length - 1)
   out.textContent = Number(a)
   if (a.length == 0){
     clearAll()
   }
-  
+  // for the second number
   }else{
     b = b.substring(0, b.length - 1)
     out.textContent =Number(b)
@@ -122,8 +122,6 @@ if (key === '←'){
     a 
     }
   }
-
-
 }
 }
 
