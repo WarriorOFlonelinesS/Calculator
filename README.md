@@ -37,3 +37,6 @@ For calculating the percentage of a number choice the fitst number and press on 
 `git clone https://github.com/WarriorOFlonelinesS/The-calculator.git`
 
 - [x] Ready project: https://to-calc.netlify.app/ 
+# Pushing
+`$ git remote add origin  `
+
