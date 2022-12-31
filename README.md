@@ -7,7 +7,7 @@
     * [Division](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#division) 
     * [Precent](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#precent)
 3. [Cloning](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#cloning)
-4. Pushing 
+4. [Pushing](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#pushing)
 
 # Purposes
 
