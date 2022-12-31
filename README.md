@@ -38,6 +38,6 @@ For calculating the percentage of a number choice the fitst number and press on 
 
 - [x] Ready project: https://to-calc.netlify.app/ 
 # Pushing
-`$ git remote add origin https://github.com/WarriorOFlonelinesS/The-calculator `
-`$ git remote -v`
-`$ git push origin main`
+- [x] `$ git remote add origin https://github.com/WarriorOFlonelinesS/The-calculator `
+- [x] `$ git remote -v`
+- [x] `$ git push origin main`
