@@ -34,10 +34,12 @@ For calculating the percentage of a number choice the fitst number and press on 
 
 
 # Cloning
-`git clone https://github.com/WarriorOFlonelinesS/The-calculator.git`
++ `git clone https://github.com/WarriorOFlonelinesS/The-calculator.git`
 
-- [x] Ready project: https://to-calc.netlify.app/ 
 # Pushing
 + `$ git remote add origin https://github.com/WarriorOFlonelinesS/The-calculator `
 + `$ git remote -v`
 + `$ git push origin main`
+
+- [x] Ready project: https://to-calc.netlify.app/ 
+- [x] Ready project: https://to-calc.netlify.app/ 
