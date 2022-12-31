@@ -42,4 +42,3 @@ For calculating the percentage of a number choice the fitst number and press on 
 + `$ git push origin main`
 
 - [x] Ready project: https://to-calc.netlify.app/ 
-- [x] Ready project: https://to-calc.netlify.app/ 
