@@ -1,0 +1,93 @@
+ body {
+       background: #EEE7E6;
+       .calc{
+        margin: 50px auto;
+        width: 355.05px;
+        height: 413.93px;
+        background: #EEE7E6;
+        box-shadow: 3px 5px 13px rgba(0, 0, 0, 0.25), -3px -3px 16px rgb(255, 255, 255);
+        border-radius: 40px;
+        color: rgb(255, 255, 255); 
+        padding: 18px;
+        user-select: none;
+      }
+      .output{
+        width: 350.08px;
+        height: 62px;
+        background: #EEE7E6;
+        box-shadow: inset 0px 4px 12px rgba(0, 0, 0, 0.25);
+        .p{
+          font-family: 'Roboto', sans-serif;
+          width: 300px;
+          height: 60px;
+          font-size: 50px;
+          color: #725d5d;
+        }
+        .p_output{
+          margin-top:0px;
+          margin-left: 20px;
+          margin-top: 2px;
+          display: grid;
+          justify-items: end;
+          position: absolute;
+        }
+      }
+    
+      .output_calc{
+        margin: 20px auto;
+      }
+      .buttons{
+        width: 365px;
+        height: 291.5px;
+        margin: 10px 0 auto;
+      }
+    
+      
+      .btn{
+     
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        width:78px;
+        height: 48px;
+        background-color: #D2C9C7;
+        box-shadow:2px 3px 4px 0px #BBB7B6,
+        -1px -1px 5px rgb(255, 255, 255);
+        // 1px -2px 0px 0px #ffffff; 
+         border: #D2C9C7;
+         border-radius: 60%;
+         cursor: pointer;
+     }
+     .buttons_btn{
+      margin:13px 1px 0 12px
+     }
+      .btn:active{
+        box-shadow: inset 2px 3px 7px rgba(0, 0, 0, 0.4);
+      }
+      .btn_rotate{
+        height: 48px;
+        width: 171px;
+        text-align: center;
+        box-shadow:1.5px 2px 2px 0px #BBB7B6,
+        -1px -1px 5px rgb(255, 255, 255);
+        user-select: none;
+        position: relative;
+        margin-left: 12px;
+      }
+      .btn_sign{
+        width: 50px;
+        height: 30.7px ;
+        font-size: 20.5px;
+      }
+      .btn_change{
+        width: 21px;
+        height: 14px;
+        text-align: center;
+
+        position: absolute;
+        margin-top: -10px;
+        margin-left: 313px;
+        font-size: 10px;
+      
+      }
+  }

@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="./css/index.css">
+    <link rel="stylesheet" href="./css/light-index.css" id="theme">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -12,17 +12,15 @@
     <title>Calculator</title>
 </head>
 <body>
-    <!--the body of the calculator-->
+    
     <div class="calc">
-        <!--the display-->
         <div class="sreen calc_sreen">
-            <!--the text of the display-->
             <div class="output output_calc">
                 <p class="p p_output" >0</p>
             </div>
         </div>
-        <!--the keyboard-->
         <div class="buttons buttons_calc">
+            <button class="btn buttons_btn btn_change" id = 'switchMode'>☼</button>
             <button class="btn buttons_btn ac">CE</button>
             <button class="btn buttons_btn exchange">%</button>
             <button class="btn buttons_btn backspace" >←</button>
@@ -46,6 +44,7 @@
             <button class="btn buttons_btn btn_rotate">0</button>
             <button class="btn buttons_btn">.</button>
             <button class="btn buttons_btn btn_sign">=</button>
+            
         </div>
     </div>
     <script src="./js/index.js"></script>

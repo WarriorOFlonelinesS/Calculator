@@ -11,6 +11,10 @@ const action = ['-', '×', '÷','+','%'];
 // dispalay
 const out = document.querySelector('p');
 
+const theme = document.getElementById('theme')
+const switchMode = document.getElementById('switchMode')
+
+
 // function of clearing of the display and set a default font 
 function clearAll() {
   a = '';
@@ -123,7 +127,12 @@ if (key === '←'){
     }
   }
 }
+if (key === '☼'){
+  if (theme.getAttribute('href') == './css/light-index.css'){
+    theme.href = './css/dark-index.css'
+  } else{
+    theme.href = './css/light-index.css'
+  }
+  clearAll()
 }
-
-
- 
+}
