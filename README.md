@@ -10,12 +10,12 @@
    + Changing themes
 # Operations 
 ## Summ
-For summing choce the first number and click on the button with sign `+`. After choce the second number. In the end click on `=` .
+For summing select the first number and click on the button with sign `+`. After select the second number. In the end click on `=` .
 ## Substraction 
-For summing choce the first number and click on the button with sign `-`. After choce the second number. In the end click on `=` .
+For substraction select the first number and click on the button with sign `-`. After select the second number. In the end click on `=` .
 ## Multiplication
-For summing choce the first number and click on the button with sign `*`. After choce the second number. In the end click on `=` .
+For multiplication select the first number and click on the button with sign `*`. After select the second number. In the end click on `=` .
 ## Division
-For summing choce the first number and click on the button with sign `÷`. After choce the second number. In the end click on `=` .
+For division select the first number and click on the button with sign `÷`. After select the second number. In the end click on `=` .
 ## Percent 
-For summing choce the first number and click on the button with sign `%`. After choce the second number. In the end click on `=` .
+For finding a percent select the first number and click on the button with sign `%`. After select the second number. In the end click on `=` .
