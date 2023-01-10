@@ -2,7 +2,7 @@
   + [Purposes](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#purpose)
   + [Operations](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#operations)
   + [Changing of themes](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#changing-of-themes)
-  + Cloning 
+  + [Cloning](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#cloning)
   + Pushing
 # Purposes
    + Neumorphic design
