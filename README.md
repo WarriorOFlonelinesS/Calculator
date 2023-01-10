@@ -24,6 +24,6 @@ For changing theme click on the button `☼`.
 # Cloning 
 `git clone https://github.com/WarriorOFlonelinesS/The-calculator`
 # Pushing 
-`git add .`
-`git commit -m`
-`git push`
+  +`git add .`
+  +`git commit -m`
+  +`git push`
