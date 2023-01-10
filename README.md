@@ -3,7 +3,7 @@
   + [Operations](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#operations)
   + [Changing of themes](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#changing-of-themes)
   + [Cloning](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#cloning)
-  + [Pushing](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README.md#pushing)
+  + [Pushing](https://github.com/WarriorOFlonelinesS/The-calculator/edit/main/README#pushing)
 # Purposes
    + Neumorphic design
    + Supporting 5 basic operations
