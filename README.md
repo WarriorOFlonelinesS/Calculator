@@ -22,4 +22,8 @@ For finding a percent select the first number and click on the button with sign 
 ## Changing of themes
 For changing theme click on the button `☼`.
 # Cloning 
-`git clone `
+`git clone https://github.com/WarriorOFlonelinesS/The-calculator`
+# Pushing 
+`git add .`
+`git commit -m`
+`git push`
