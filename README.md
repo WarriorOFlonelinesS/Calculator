@@ -8,6 +8,8 @@
    + Neumorphic design
    + Supporting 5 basic operations
    + Changing themes
+## Ready project
+:heavy_check_mark: https://to-calc.netlify.app/
 # Operations 
 ## Summ
 For summing select the first number and click on the button with sign `+`. After select the second number. In the end click on `=`.
